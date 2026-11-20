@@ -11,7 +11,7 @@
     <message>
         <location filename="../src/app-switcher.cpp" line="22"/>
         <source>Reverse switch applications</source>
-        <translation>Atšpeģeniski/reversi pārslēgt lietotnes</translation>
+        <translation>Pārslēgt lietotnes apgrieztā secībā</translation>
     </message>
 </context>
 </TS>
